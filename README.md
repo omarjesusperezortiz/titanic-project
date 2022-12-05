@@ -6,8 +6,7 @@
 <h2>For this project i used: </h2>
 
 <h2 align="center">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-    <img width="100px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css"> + 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="100"/> + 
     <img width="100px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript">
 </h2>
 
@@ -17,16 +16,11 @@
 
 <h3>Web Development</h3>
 
-https://omarjesusperezortiz.github.io/circle-project/
+https://omarjesusperezortiz.github.io/titanic-project/
 
 <h2 align="center">
-<img width="700px" src="https://github.com/omarjesusperezortiz/circle-project/blob/main/media/webpreview1.gif" alt="taskgif">
+<img width="700px" src="https://github.com/omarjesusperezortiz/titanic-project/blob/main/public/titanic-preview.gif alt="taskgif">
 </h2>
-
-<h2 align="center">
-<img width="700px" src="https://github.com/omarjesusperezortiz/circle-project/blob/main/media/webpreview2.gif" alt="taskgif">
-</h2>
-
 
 
 ---
