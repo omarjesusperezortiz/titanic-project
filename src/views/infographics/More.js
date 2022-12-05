@@ -1,14 +1,12 @@
 import React from 'react'
+import { CCard, CCardHeader, CCardBody } from '@coreui/react'
 
-import { CCard, CCardBody, CCardHeader } from '@coreui/react'
-import MarimekkoNivo from '../infographics/Marimekko'
-
-const Dashboard = () => {
+const More = () => {
   return (
     <>
       <CCard className="mb-4">
         <CCardHeader>
-          <h1>Titanic Infographics Project</h1>
+          <h1>More Information</h1>
         </CCardHeader>
         <CCardBody>
           <h3>Explanation of the project</h3>
@@ -26,12 +24,8 @@ const Dashboard = () => {
           </p>
         </CCardBody>
       </CCard>
-
-      <CCard>
-        <MarimekkoNivo />
-      </CCard>
     </>
   )
 }
 
-export default Dashboard
+export default More
