@@ -19,7 +19,7 @@
 https://omarjesusperezortiz.github.io/titanic-project/
 
 <h2 align="center">
-<img width="700px" src="https://github.com/omarjesusperezortiz/titanic-project/blob/main/public/titanic-preview.gif alt="taskgif">
+<img width="700px" src="https://github.com/omarjesusperezortiz/titanic-project/blob/main/public/titanic-preview.gif" alt="taskgif">
 </h2>
 
 
