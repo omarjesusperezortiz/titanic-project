@@ -1,5 +1,5 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom'
+
 import { useSelector, useDispatch } from 'react-redux'
 import { AppBreadcrumb } from './index'
 import {
@@ -8,16 +8,11 @@ import {
   CHeaderBrand,
   CHeaderNav,
   CHeaderToggler,
-  CNavLink,
   CNavItem,
-  CBreadcrumb,
-  CBreadcrumbItem,
 } from '@coreui/react'
 import CIcon from '@coreui/icons-react'
 import { cilMenu } from '@coreui/icons'
 import { logo } from 'src/assets/brand/logo'
-import { useLocation } from 'react-router-dom'
-import useBreadcrumbs from 'use-react-router-breadcrumbs'
 
 const AppHeader = () => {
   const dispatch = useDispatch()
