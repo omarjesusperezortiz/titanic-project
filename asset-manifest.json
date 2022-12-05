@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/titanic-project/static/css/main.bc6d9625.css",
-    "main.js": "/titanic-project/static/js/main.4253262f.js",
+    "main.js": "/titanic-project/static/js/main.fc45670e.js",
     "static/css/882.c853c9e8.chunk.css": "/titanic-project/static/css/882.c853c9e8.chunk.css",
-    "static/js/882.78fa9da9.chunk.js": "/titanic-project/static/js/882.78fa9da9.chunk.js",
+    "static/js/882.2671225e.chunk.js": "/titanic-project/static/js/882.2671225e.chunk.js",
     "static/js/787.14675f11.chunk.js": "/titanic-project/static/js/787.14675f11.chunk.js",
     "static/js/915.f3eeef71.chunk.js": "/titanic-project/static/js/915.f3eeef71.chunk.js",
     "static/js/716.493f1ae8.chunk.js": "/titanic-project/static/js/716.493f1ae8.chunk.js",
@@ -25,9 +25,9 @@
     "static/media/8.jpg": "/titanic-project/static/media/8.35ee8919ea545620a475.jpg",
     "index.html": "/titanic-project/index.html",
     "main.bc6d9625.css.map": "/titanic-project/static/css/main.bc6d9625.css.map",
-    "main.4253262f.js.map": "/titanic-project/static/js/main.4253262f.js.map",
+    "main.fc45670e.js.map": "/titanic-project/static/js/main.fc45670e.js.map",
     "882.c853c9e8.chunk.css.map": "/titanic-project/static/css/882.c853c9e8.chunk.css.map",
-    "882.78fa9da9.chunk.js.map": "/titanic-project/static/js/882.78fa9da9.chunk.js.map",
+    "882.2671225e.chunk.js.map": "/titanic-project/static/js/882.2671225e.chunk.js.map",
     "787.14675f11.chunk.js.map": "/titanic-project/static/js/787.14675f11.chunk.js.map",
     "915.f3eeef71.chunk.js.map": "/titanic-project/static/js/915.f3eeef71.chunk.js.map",
     "716.493f1ae8.chunk.js.map": "/titanic-project/static/js/716.493f1ae8.chunk.js.map",
@@ -48,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.bc6d9625.css",
-    "static/js/main.4253262f.js"
+    "static/js/main.fc45670e.js"
   ]
 }
